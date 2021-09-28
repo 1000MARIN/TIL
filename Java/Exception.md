@@ -14,7 +14,7 @@
 
 ---
 
----
+<br>
 
 # 예외의 종류
 
@@ -30,20 +30,30 @@
 - 예외가 발생하면 JVM은 해당하는 실행 예외 객체를 생성
 - 실행 예외는 컴파일러가 예외 처리 여부를 확인하지 않음. 따라서 개발자가 예외 처리 코드의 추가 여부를 결정
 
-[대표적인 실행 예외 예](https://www.notion.so/c5d680a3b1744c58b669cf60d975965f)
+대표적인 실행 예외 예
+- ArithmeticException : 0으로 나누기와 같은 부적절한 산술 연산을 수행할 때 발생
+- IllegalArgumentException : 메서드에 부적절한 인수를 전달할 때 발생
+- IndexOutOfBoundsException : 배열, 벡터 등에서 범위를 벗어난 인덱스를 사용할 때 발생한다.
+- NoSuchElementException : 요구한 원소가 없을 때 발생한다.
+- NullPointerException : null 값을 가진 참조 변수에 접근할 때 발생한다.
+- NumberFormatException : 숫자로 바꿀 수 없는 문자열을 숫자로 변환하려 할 때 발생한다.
+
 
 ### 일반 예외
 
 - 컴파일러는 발생할 가능성을 발견하면 컴파일 오류를 발생
 - 개발자는 예외 처리 코드를 반드시 추가
 
-[대표적인 일반 예외 예](https://www.notion.so/ede36a05cdef4f0aa7618aabdcb1dfe7)
+대표적인 일반 예외 예
+- ClassNotFoundException : 존재하지 않는 클래스를 사용하려고 할 때 발생한다.
+- InterruptedException : 인터럽트 되었을 때 발생한다.
+- NoSuchFieldException : 클래스가 명시한 필드를 포함하지 않을 때 발생한다.
+- NoSuchMethodException : 클래스가 명시한 메서드를 포함하지 않을 때 발생한다.
+- IOException : 데이터 읽기 같은 입출력 문제가 있을 때 발생한다.
 
 ---
 
----
-
----
+<br>
 
 ## 예외 처리의 두가지 방법
 
@@ -53,7 +63,10 @@
 
 ![https://blog.kakaocdn.net/dn/sWk91/btqKoqgQcPG/7vBYYWvdAoyQNXutu2U0Ak/img.png](https://blog.kakaocdn.net/dn/sWk91/btqKoqgQcPG/7vBYYWvdAoyQNXutu2U0Ak/img.png)
 
-[Throwable 클래스의 주요 메서드](https://www.notion.so/8ebe37de6e974360a4126d2432dd4202)
+Throwable 클래스의 주요 메서드
+- public String getMessage() : Throwable 객체의 자세한 메시지를 반환한다.
+- public String toString() : Throwable 객체의 간단한 메시지를 반환한다.
+- public void printStackTrace() : Throwable 객체와 추적 정보를 콘솔 뷰에 출력한다.
 
 ### 예시
 
