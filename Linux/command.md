@@ -58,6 +58,11 @@ $ mkdir hello_linux
 $ ls
 hello_linux
 ```
+### **폴더 삭제하기**
+```
+rm /home/drv98/new_folder 
+```
+the *rm* (remove) 명령어
 
 ### cd (chang directory) : 디렉토리 이동
 
@@ -81,16 +86,79 @@ cd - : 바로전에 위치했던 디렉토리로 이동
 
 cd /etc/sysconfig : /etc/sysconfig 디렉토리로 이동
 
-# **Summary**
+## **폴더와 폴더내 하위폴더등 모든 파일 삭제**
 
-### **pwd**
+The command you are about to read can potentially (if used incorrectly) **destroy** your system!
+```
+rm -rf /home/drv98/useless_Parent_folder
+```
+- 명령어 rm 의 옵션으로 '-r' 은  recursive 즉, 재귀적으로 폴더내 폴더까지 삭제 (비어있지 않은 폴더는 -r 옵션없이 삭제불가)
 
-Print Working Directory : 현재 위치하는 디렉토리위치를 출력
+- '-f' 은 강제적으로 (permission 없이)  삭제
+```
+rm -rf /* 
 
-### **ls**
+rm -rf /
+```
+- **절대 사용하지 말것**
 
-List the contents of a directory. : 디렉토리의 내용을 리스트해서 출력
+## **root 권한으로 명령어 실행**
+```
+apt-get install git
+```
+명령어 앞에 sudo
+```
+sudo apt-get install git
+```
+**
 
-### **cd**
+## **Backing up your files(파일 백업)**
 
-Change Directories : 다른 디렉토리로 위치이동
+To create a backup of a file, we're going to use the *cp* (copy) command. The basic syntax for *cp* is as follows:
+```
+cp source_file dest_file
+```
+```
+cp hello.txt hello.txt.old
+```
+```
+cp *  /home/drv98/download/backup/
+```
+## **폴더 복사**
+
+*cp* *-r* (recursive)
+```
+cp -r /directory/  where/to/copy/to/
+```
+## **Checking system performance**
+
+현재 cpu 사용률 등 프로세스 사용 상황을 알고 싶을때:
+```
+top
+```
+## **Check Devices (장치 관리)**
+
+USB Devices:
+
+현재 USB 장치가 동작하는지 연결/해제 되었는지 체크:
+```
+lsusb
+```
+PCI Devices:
+
+As PCI devices are checked with:
+```
+lspci
+```
+## **네트워크 정보 보기**
+```
+ip addr
+```
+## **와이파이 정보 보기**
+```
+iwconfig
+```
+## **본인 계정의 홈위치 /home/아이디 이동**
+```
+**cd ~**
+```
