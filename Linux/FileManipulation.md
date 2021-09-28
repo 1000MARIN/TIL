@@ -3,13 +3,14 @@
 ## **디렉토리 만들기**
 
 > **mkdir [options] <Directory>**
-> 
 
+```
 $ pwd
 /home/drv98
 $ ls
 $ mkdir work
 $ ls
+```
 
 mkdir /home/drv98/dir1
 
