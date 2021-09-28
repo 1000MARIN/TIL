@@ -1,5 +1,5 @@
 # 배열
-> 같은 타입의 여러 변수를 하나의 묶음으로 다루는 것
+> 같은 타입의 여러 변수를 하나의 묶음으로 다루는 것   
 > 자바에서 배열은 String과 같은 객체
 
 ![image](https://user-images.githubusercontent.com/84886987/135013136-10336869-287e-4218-ad4e-f6df39c7f232.png)
