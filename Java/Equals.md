@@ -1,7 +1,10 @@
 # ==과 equals의 차이점
 > primitive (원시의) 자료형 : char, boolean, int, double, float, short, long ...   
 > non primitive(비원시의) 자료형 : String, File, Date, class ..   
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/093ffeeb-af85-45a8-be01-dcc229c1dfa7/_equals_.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/093ffeeb-af85-45a8-be01-dcc229c1dfa7/_equals_.png)
+
+<br>
+![_equals_](https://user-images.githubusercontent.com/84886987/135011913-236f8515-504d-41a6-88ee-871fd1c2f234.png)
+
 
 ```java
 public class AuthApp2 {
