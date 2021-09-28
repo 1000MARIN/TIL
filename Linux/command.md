@@ -34,30 +34,38 @@ $ pwd
 
 ### ls : 파일 목록 출력
 
+```
 $ ls
+```
 
 ### **ls [options] [location]**
 
+```
 $ ls
 $ ls -l
 $ ls /etc
 $ ls -l /etc
+```
 
 ### mkdir : 폴더 만들기
 
+```
 $ mkdir hello_linux
 $ ls
 hello_linux
+```
 
 ### cd (chang directory) : 디렉토리 이동
 
 **cd [location]**
 
+```
 $ cd /
 $ ls
 $ cd ~
 $ cd ..
 $ cd ~/hello_linux
+```
 
 cd 또는 cd ~ :  자기 자신의 홈디렉토리로 이동
 
