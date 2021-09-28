@@ -68,6 +68,8 @@ Throwable 클래스의 주요 메서드
 - public String toString() : Throwable 객체의 간단한 메시지를 반환한다.
 - public void printStackTrace() : Throwable 객체와 추적 정보를 콘솔 뷰에 출력한다.
 
+<br>
+
 ### 예시
 
 ![https://blog.kakaocdn.net/dn/JW4WW/btqKrJUjqZK/s6pk5HN7gHcRjf1MKMTggk/img.png](https://blog.kakaocdn.net/dn/JW4WW/btqKrJUjqZK/s6pk5HN7gHcRjf1MKMTggk/img.png)
@@ -80,6 +82,9 @@ Throwable 클래스의 주요 메서드
 
 ![https://blog.kakaocdn.net/dn/ckwFL0/btqKoqBdh0N/TZol7KWYbJv3U3eNC7BMMk/img.png](https://blog.kakaocdn.net/dn/ckwFL0/btqKoqBdh0N/TZol7KWYbJv3U3eNC7BMMk/img.png)
 
+<br>
+
+
 ### 예시 2
 
 ![https://blog.kakaocdn.net/dn/dvxYab/btqKopCfvZb/Fy1fK8qgEKdisDwH5Hqnek/img.png](https://blog.kakaocdn.net/dn/dvxYab/btqKopCfvZb/Fy1fK8qgEKdisDwH5Hqnek/img.png)
@@ -89,6 +94,8 @@ Throwable 클래스의 주요 메서드
 - 다중 catch 블록일 때 try 블록에서 예외가 발생하면 발생한 예외를 catch 블록 순서대로 비교
 - 앞에 있는 catch 블록의 예외 객체가 나중 catch 블록 예외 객체의 부모라면 앞에 있는 catch 블록이 먼저 가로챔 -> 컴파일러는 오류를 발생시킴
 - **구체적인 예외를 먼저 처리해야 함.**
+
+<br>
 
 ### 예제 3
 
@@ -106,11 +113,15 @@ Throwable 클래스의 주요 메서드
 
 ---
 
+<br>
+
 ### 2. 예외 떠넘기기
 
 메서드에서 발생한 예외를 내부에서 처리하기가 부담스러울 때는 **throws 키워드를 사용해 예외를 상위 코드 블록으로 양도 가능**
 
 ![https://blog.kakaocdn.net/dn/bzqEtZ/btqKsoClIxC/NV0v3gDIQgPF6YkgAagxVk/img.png](https://blog.kakaocdn.net/dn/bzqEtZ/btqKsoClIxC/NV0v3gDIQgPF6YkgAagxVk/img.png)
+
+<br>
 
 ### 사용 방법
 
@@ -120,12 +131,14 @@ Throwable 클래스의 주요 메서드
 
 ![https://blog.kakaocdn.net/dn/1yP4B/btqKnpWREy8/vQKUshOx9b3vuHnFUzN991/img.png](https://blog.kakaocdn.net/dn/1yP4B/btqKnpWREy8/vQKUshOx9b3vuHnFUzN991/img.png)
 
+<br>
+
 ### 사용시 주의 사항
 
 - **throws** 절이 있는 메소드를 오버라이딩 할 때는 메소드에 선언한 예외보다 더 광범위한 검사형 예외(일반 예외)를 던질 수 없음
 - **부모 클래스의 메소드에 예외를 떠넘기는 throws 절이 없다면** 자식 클래스의 메소드를 오버라이딩 할 때 어떤 예외도 떠넘길 수 없음.
 - 자바 API 문서를 보면, 많은 메서드가 예외를 발생시키고 상위 코드로 예외 처리를 떠넘긴다.
 
-public static void sleep(long millis, int nanos) throws InterruptedException예제
+ ### 예제 public static void sleep(long millis, int nanos) throws InterruptedException
 
 ![https://blog.kakaocdn.net/dn/bYqjg6/btqKuHameTc/0rjRmV9TgXtp3Vb0FlOCdk/img.png](https://blog.kakaocdn.net/dn/bYqjg6/btqKuHameTc/0rjRmV9TgXtp3Vb0FlOCdk/img.png)
