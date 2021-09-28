@@ -39,7 +39,7 @@ public class WhyMethod {
 
 <br>
 
-# Method의 입력 값
+## Method의 입력 값
 
 1. **인자, argument**
     
