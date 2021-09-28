@@ -2,12 +2,12 @@
 
 ## 1. 레퍼런스란?
 
-![image](https://user-images.githubusercontent.com/84886987/135014809-a4981b20-477d-41e6-89e5-d0e557672e26.png)
+![image](https://user-images.githubusercontent.com/84886987/135015254-9ef60aef-c45a-482f-9b01-d3430ca44875.png)
 
 
 ## 2. 레퍼런스 변수 , 기본 변수
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17722853-369a-4727-84dc-1da2a3960130/__.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17722853-369a-4727-84dc-1da2a3960130/__.png)
+![image](https://user-images.githubusercontent.com/84886987/135015263-c63426dd-5e74-462c-95a5-fa8276e37496.png)
 
 # static
 
