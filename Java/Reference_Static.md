@@ -4,32 +4,39 @@
 
 ![image](https://user-images.githubusercontent.com/84886987/135015254-9ef60aef-c45a-482f-9b01-d3430ca44875.png)
 
+<br>
 
 ## 2. 레퍼런스 변수 , 기본 변수
 
 ![image](https://user-images.githubusercontent.com/84886987/135015263-c63426dd-5e74-462c-95a5-fa8276e37496.png)
 
-# static
+<br>
 
 ## 1. static 이란?
 
 : 필드 & 메소드에 적용 가능한 공유의 키워드
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a5f9889-bbba-464c-8bbb-04cf2193782b/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a5f9889-bbba-464c-8bbb-04cf2193782b/.png)
+![image](https://user-images.githubusercontent.com/84886987/135015471-716176fc-7d3a-4b41-8476-52436f9da1d2.png)
+
+<br>
 
 ## 2. 클래스 변수
 
 - 클래스 변수 : 객체 외부 클래스 영역에서 공유되는 변수
 - 인스턴스 변수 : 객체 내부 변수
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e06c16e-fc92-4588-975a-121fa2ffd26e/__.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e06c16e-fc92-4588-975a-121fa2ffd26e/__.png)
+![image](https://user-images.githubusercontent.com/84886987/135015480-ea2bc1b8-fa4f-4fc9-89e5-f25e77bd47c0.png)
+
+<br>
 
 ## 3. 클래스 메소드
 
 - 클래스 매소드 : 클래스가 동작시키는 메소드
 - 인스턴스 메소드 : 주체 객체가 동작하는 메소드
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd2bdeab-3ea2-4073-92e4-3ab48d010c2b/__.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd2bdeab-3ea2-4073-92e4-3ab48d010c2b/__.png)
+![image](https://user-images.githubusercontent.com/84886987/135015491-276a16fb-4ce9-412f-afce-71913fc4da95.png)
+
+<br>
 
 ## 4. 예제 (두 점 사이의 거리)
 
