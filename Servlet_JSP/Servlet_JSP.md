@@ -1,5 +1,4 @@
-# Servlet & JSP 학습 기록
->[신입 프로그래머를 위한 실전 JSP 강좌](https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-jsp-%EA%B0%95%EC%A2%8C/) 강의를 듣고 학습한 내용을 기록.
+# Servlet & JSP
 ## JSP(Java Server Page)
   - HTML 파일 내에 Java언어를 삽인한 문서
   - 동적 웹 어플리케이션 컴포넌트
