@@ -27,8 +27,10 @@ $ echo $SHELL
 
 ### pwd : 현재 디렉토리 위치
 
+```
 $ pwd
 /home/work
+```
 
 ### ls : 파일 목록 출력
 
