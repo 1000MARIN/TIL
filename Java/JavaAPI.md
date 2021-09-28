@@ -8,17 +8,25 @@
 
 # 대표적인 자바 API
 
+<br>
+
 ## Math 클래스 : 수학 관련 기능을 제공
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/966b08c4-6543-4888-a1f2-e369eacb30fc/Math.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/966b08c4-6543-4888-a1f2-e369eacb30fc/Math.png)
+![image](https://user-images.githubusercontent.com/84886987/135015867-b4b257cc-98ca-4a33-82bd-13ebb5d23cc9.png)
+
+<br>
 
 ## Random 클래스 : 임의의 수 생성에 특화
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfef1227-d42b-4288-8b5b-00daba79b017/Random.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfef1227-d42b-4288-8b5b-00daba79b017/Random.png)
+![image](https://user-images.githubusercontent.com/84886987/135015873-4a6467f6-cc72-487a-a879-f8ecb56aeaba.png)
+
+<br>
 
 ## ArrayList 클래스 : 객체를 저장하는, 배열의 업그레이드 버전
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a74c8a29-f7c9-4960-906f-ebc202f6060d/ArrayList.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a74c8a29-f7c9-4960-906f-ebc202f6060d/ArrayList.png)
+![image](https://user-images.githubusercontent.com/84886987/135015880-b027306c-b43c-4982-9cd8-2050c5eb622d.png)
+
+<br>
 
 ## 예제 (로또 번호 생성기)
 
