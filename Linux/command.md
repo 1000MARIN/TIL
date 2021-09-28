@@ -18,13 +18,10 @@
 
 리눅스 기본 쉘이 bash 이므로, bash에서 제공하는 기본 명령어를 배우는 것 입니다.   
 
-This is a normal paragraph:   
-
+```
 $ echo $SHELL   
 /bin/bash   
-
-end code block.   
-
+```
 
 
 
