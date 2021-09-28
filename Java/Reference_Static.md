@@ -2,7 +2,8 @@
 
 ## 1. 레퍼런스란?
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eb6d57b-5800-4bec-b873-b21baa102993/__.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eb6d57b-5800-4bec-b873-b21baa102993/__.png)
+![image](https://user-images.githubusercontent.com/84886987/135014809-a4981b20-477d-41e6-89e5-d0e557672e26.png)
+
 
 ## 2. 레퍼런스 변수 , 기본 변수
 
