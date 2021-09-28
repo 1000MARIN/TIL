@@ -29,5 +29,10 @@
 ### Servlet / JSP
  * [Servlet / JSP 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Servlet_JSP/Servlet_JSP.md)
 
+### Linux
+ * [기초명령어](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/command.md)
+ * [파일](https://github.com/1000MARIN/TIL/tree/1000marin/Linux)
+ * 
+
 
 
