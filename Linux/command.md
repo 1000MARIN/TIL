@@ -7,11 +7,11 @@
 **— CLI ( Command-Line Interface ) : 텍스트 명령 줄 인터페이스**
 
 셸의 종류
-Bourne Shell              - sh    - 벨 연구소의 스티브본 (Stephen Bourne) 개발, 많은 셸 스크립트의 기반이 되는 셸
-C Shell                   - csh   - C언어 구문과 유사, Bourne Shell 을 확장하여 히스토리, 작업제어, 엘리어스 등 기능 추가 개발자들에게 유용한 기능들을 제공한다.
-TC Schell                 - tcsh  - C Shell 에 명령 행 완성 과 명령 행 편집 기능을 추가
-Korn Shell                - ksh   - Bourne Shell 가 호환되며 C Shell 의 많은 기능을 포함, Unix 계열에서 많이 사용된다.
-Bourne Again Shell (bash) - bash  - 리눅스에서 가장많이 사용되는 셸로 Bourne 셀을 토대로 C셸과 Korn Shell 의 기능들을 통합시켜 개발되었다.
+Bourne Shell              - sh    - 벨 연구소의 스티브본 (Stephen Bourne) 개발, 많은 셸 스크립트의 기반이 되는 셸   
+C Shell                   - csh   - C언어 구문과 유사, Bourne Shell 을 확장하여 히스토리, 작업제어, 엘리어스 등 기능 추가 개발자들에게 유용한 기능들을 제공한다.   
+TC Schell                 - tcsh  - C Shell 에 명령 행 완성 과 명령 행 편집 기능을 추가      
+Korn Shell                - ksh   - Bourne Shell 가 호환되며 C Shell 의 많은 기능을 포함, Unix 계열에서 많이 사용된다.   
+Bourne Again Shell (bash) - bash  - 리눅스에서 가장많이 사용되는 셸로 Bourne 셀을 토대로 C셸과 Korn Shell 의 기능들을 통합시켜 개발되었다.   
 # ****
 
 # **리눅스 기본 명령어**
