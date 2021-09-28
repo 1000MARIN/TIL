@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/84886987/135014205-e141fd66-8992-4edf-8802-e3bc36597844.png)
 
-# 클래스 구현 및 객체 만들기
+## 클래스 구현 및 객체 만들기
 
 ```java
 public class CatTest {
@@ -55,9 +55,11 @@ class Cat {
 } // end of Cat
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63b5a583-5ff0-4d41-827d-838267f6c638/Cat.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63b5a583-5ff0-4d41-827d-838267f6c638/Cat.png)
+![image](https://user-images.githubusercontent.com/84886987/135014264-67f7de73-a6a9-4460-a78a-59ca79f46a3d.png)
 
-# 객체 생성
+<br>
+
+## 객체 생성
 
 ```java
 public class BicycleTest {
@@ -99,7 +101,9 @@ class Bicycle {
 }
 ```
 
-# 인스턴스 메소드 호출
+<br>
+
+## 인스턴스 메소드 호출
 
 ```java
 public class CatTest {
@@ -154,7 +158,9 @@ class Cat {
 } // end of Cat
 ```
 
-# 클래스 스코프
+<br>
+
+## 클래스 스코프
 
 ```java
 public class CatTest {
@@ -196,7 +202,9 @@ class Cat {
 } // end of Cat
 ```
 
-# 메소드 스코프(scope)
+<br>
+
+## 메소드 스코프(scope)
 
 - 클래스 스코프 : 필드
 - 메소드 스코프 : 파라미터, 지역변수
@@ -239,7 +247,9 @@ class DrinkMachine {
 } // end of DrinkMachine
 ```
 
-# 정사각형 객체의 넓이
+<br>
+
+## 정사각형 객체의 넓이
 
 ```java
 public class SquareTest {
