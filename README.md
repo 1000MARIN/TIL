@@ -33,6 +33,7 @@
  * [기초명령어](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/command.md)
  * [파일](https://github.com/1000MARIN/TIL/tree/1000marin/Linux)
  * [명령어 매뉴얼](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/Man.md)
+ * [파일 조작하기](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/FileManipulation.md)
 
 
 
