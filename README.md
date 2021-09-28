@@ -17,4 +17,6 @@
  * [메소드](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Method.md)
  * [클래스와 객체](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Class.md)
  * [생성자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Constructor.md)
+ * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
+
 
