@@ -19,5 +19,6 @@
  * [생성자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Constructor.md)
  * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
  * [Java API](https://github.com/1000MARIN/TIL/blob/1000marin/Java/JavaAPI.md)
+ * [extends](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Extends.md)
 
 
