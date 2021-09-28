@@ -1,4 +1,4 @@
-# 파일 조작하기 (# **File Manipulation**)
+# 파일 조작하기 (**File Manipulation**)
 
 ## **디렉토리 만들기**
 
