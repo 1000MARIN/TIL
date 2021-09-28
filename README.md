@@ -20,5 +20,8 @@
  * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
  * [Java API](https://github.com/1000MARIN/TIL/blob/1000marin/Java/JavaAPI.md)
  * [extends](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Extends.md)
+ * [예외처리](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Exception.md)
+ * [인터페리스](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Interface.md)
+ * 
 
 
