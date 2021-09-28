@@ -32,6 +32,11 @@ public class LoopArray {
 - 출발 순서 정할 수 있음 i=1 (두번째에서 시작), i=2 (세번째에서 시작)
 - uesrs.length : 배열의 갯수
 
+
+
+
+
+
 ## 배열 예제 (하루 평균 사용자 구하기)
 
 ```java
