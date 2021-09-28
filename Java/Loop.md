@@ -58,5 +58,5 @@ public class GuGuDan {
 	} // end of printDan
 }
 ```
+![image](https://user-images.githubusercontent.com/84886987/135012994-35274582-2a3a-447d-883d-1795b7e62bda.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e42c5cd3-679d-4879-8dc7-19288931f47c/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e42c5cd3-679d-4879-8dc7-19288931f47c/.png)
