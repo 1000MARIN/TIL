@@ -52,6 +52,6 @@ shippers 테이블
 ```sql
 INSERT INTO shippers (name)
 VALUES ('Shipper1'),
-	   ('Shipper2'),
+       ('Shipper2'),
        ('Shipper3')
 ```
