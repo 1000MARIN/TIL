@@ -1,4 +1,4 @@
-# 집게 함수 Aggregate Functions
+# 집게 함수 (Aggregate Functions)
 
 ```sql
 SELECT 
