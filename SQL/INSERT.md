@@ -7,7 +7,7 @@
 ```sql
 INSERT INTO customers
 VALUES (
-		DEFAULT, 
+    DEFAULT, 
     'John', 
     'Smith', 
     '1990-01-01', 
@@ -22,7 +22,7 @@ VALUES (
 
 ```sql
 INSERT INTO customers(
-					first_name,
+	  first_name,
           last_name,
           birth_date,
           address,
