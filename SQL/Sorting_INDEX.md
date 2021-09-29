@@ -87,6 +87,10 @@ SHOW STATUS LIKE 'last_query_cost';
 
 ![https://postfiles.pstatic.net/MjAxOTEwMDNfMjcy/MDAxNTcwMDY0NzIxMDg0.8uIwEQm5EIUEY4FAZIICrlbp8pEUths17Pu2V3qHF6wg.JNcPjQ38r0BJ2lqF7SDi9w2t2esMbp2dhf5yAj5EPHEg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTEwMDNfMjcy/MDAxNTcwMDY0NzIxMDg0.8uIwEQm5EIUEY4FAZIICrlbp8pEUths17Pu2V3qHF6wg.JNcPjQ38r0BJ2lqF7SDi9w2t2esMbp2dhf5yAj5EPHEg.PNG.drv98/image.png?type=w773)
 
+---
+
+<br>
+
 ## summary
 
 ### **order by 정렬은 CPU 연산등 자원 사용이 큰편**
