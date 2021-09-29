@@ -18,9 +18,6 @@ CREATE USER john IDENTIFIED BY '1234'; -- 유저 존 생성과 비밀번호 1234
 <br>
 
 ## **유저 조회**
-```
-SELECT * FROM mysql.user; 
-```
 
 ```sql
 SELECT * FROM mysql.user;
