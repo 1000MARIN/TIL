@@ -35,5 +35,21 @@
  * [명령어 매뉴얼](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/Man.md)
  * [파일 조작하기](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/FileManipulation.md)
 
+### SQL
+ * 싱글 테이블
+  - [Select 문 / Select 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Select.md)
+  - [WHERE 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/WHERE.md)
+  - [AND, OR , NOT 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/AND_OR_NOT.md)
+  - [IN 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IN.md)
+  - [BETWEEN 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/BETWEEN.md)
+  - [LIKE 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIKE.md)
+  - [REGEXP(레귤러 익스프레션) 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/REGEXP.md)
+  - 
+ * 멀티 테이블
+ * 입력 / 수정 / 삭제 데이터
+ * 모델링 / 인텍스
+ * 집계함수 / GROUP / 서브쿼리
+ * 유저 생성 / 삭제 / 권한
+
 
 
