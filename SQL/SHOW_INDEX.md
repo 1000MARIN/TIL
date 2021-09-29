@@ -27,7 +27,7 @@ SHOW INDEXES IN orders;
 
 <br>
 
-## **왼쪽 네비게이션 바에서도 확인 가능**
+### **왼쪽 네비게이션 바에서도 확인 가능**
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjdfMjg5/MDAxNTY5NTEwNDYyOTk4.V645TQiwgcrFciJ5mN3OR86zdHllzCn81c3Zv9sFGFQg.vC1TaqUsaKCIqfg19dM3sTrr2bk9YCVvIOyxVEoy3lAg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjdfMjg5/MDAxNTY5NTEwNDYyOTk4.V645TQiwgcrFciJ5mN3OR86zdHllzCn81c3Zv9sFGFQg.vC1TaqUsaKCIqfg19dM3sTrr2bk9YCVvIOyxVEoy3lAg.PNG.drv98/image.png?type=w773)
 
