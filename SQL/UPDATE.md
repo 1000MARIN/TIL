@@ -38,6 +38,8 @@ WHERE invoice_id = 1;
 
 ---
 
+<br>
+
 ##  여러줄(rows) 업데이트
 ![https://postfiles.pstatic.net/MjAxOTA5MThfMjIz/MDAxNTY4NzkwNTUzMDMx.Hjag9xprvcYGOFCKUymWkdrhKs7eGKjG7_322DaZ_1cg.wWzheuP6KtKzAwymHey00Ny-kNsowzfnbfErNm-zV6Ag.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfMjIz/MDAxNTY4NzkwNTUzMDMx.Hjag9xprvcYGOFCKUymWkdrhKs7eGKjG7_322DaZ_1cg.wWzheuP6KtKzAwymHey00Ny-kNsowzfnbfErNm-zV6Ag.PNG.drv98/image.png?type=w773)
 
@@ -58,6 +60,8 @@ WHERE client_id = 3;
 ![https://postfiles.pstatic.net/MjAxOTA5MThfMjYw/MDAxNTY4NzkwMTMwOTQy.dU-L7Na5a8tIPDgx1AuffKcXeYkdJX5VpWSNQ00rwsMg.Iedcjmod1OYGKhUnMkGQ7fLX2OhkFL_SATHFKem5qEwg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfMjYw/MDAxNTY4NzkwMTMwOTQy.dU-L7Na5a8tIPDgx1AuffKcXeYkdJX5VpWSNQ00rwsMg.Iedcjmod1OYGKhUnMkGQ7fLX2OhkFL_SATHFKem5qEwg.PNG.drv98/image.png?type=w773)
 
 ---
+
+<br>
 
 ## 서브쿼리를 이용한 업데이트
 
