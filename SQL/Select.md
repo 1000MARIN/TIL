@@ -11,6 +11,8 @@ WHERE customer_id = 1
 ORDER BY first_name;
 ```
 
+<br>
+
 # **SELECT 절**
 
 ```sql
