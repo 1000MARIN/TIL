@@ -1,4 +1,6 @@
-# **AND / OR**
+# AND, OR , NOT 연산자
+
+## **AND / OR**
 
 ```sql
 SELECT * 
@@ -13,7 +15,7 @@ WHERE birth_date > '1990-01-01' OR
 	 ( points > 1000 AND state = 'VA' )
 ```
 
-# **NOT**
+## **NOT**
 
 ```sql
 -- WHERE birth_date > '1990-01-01' OR points > 1000
