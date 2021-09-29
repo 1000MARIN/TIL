@@ -5,7 +5,7 @@
 
 ---
 ### ETC   
- * 이것저것
+ * [Restful API 란?](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/RESTful_API.md)
 
 ### Java
  * [boolean](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_boolean.md)
