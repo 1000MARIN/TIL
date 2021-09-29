@@ -44,9 +44,27 @@
     - [BETWEEN 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/BETWEEN.md)
     - [LIKE 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIKE.md)
     - [REGEXP(레귤러 익스프레션) 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/REGEXP.md)
-    - 
+    - [IS NULL 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IS_NULL.md)
+    - [ORDER BY 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ORDER_BY.md)
+    - [LIMIT 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIMIT.md)
+
  * 멀티 테이블
+    - [INNER JOIN( 내부 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INNER_JOIN.md)
+    - [SELF JOIN ( 자체 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SELF_JOIN.md)
+    - [MULTI TABLE JOIN](https://github.com/1000MARIN/TIL/edit/1000marin/SQL/MultiTableJoin.md)
+    - [NATURAL JOIN / CROSS JOIN](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/NaturalJoin_CrossJoin.md)
+    - [Union](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Union.md)
+
+
  * 입력 / 수정 / 삭제 데이터
+    - [컬럼 속성 알아보기](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Column.md)
+    - [INSERT](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INSERT.md)
+    - [테이블 복사/ 서브쿼리 입력](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/TableCopy.md)
+    - [UPDATE](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/UPDATE.md)
+    - [DELETE](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/DELETE.md)
+    - [VIEW](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/VIEW.md)
+
+
  * 모델링 / 인텍스
  * 집계함수 / GROUP / 서브쿼리
  * 유저 생성 / 삭제 / 권한
