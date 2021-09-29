@@ -1,9 +1,9 @@
 # 인덱스 확인하기 / 삭제하기
 
-# **인덱스 확인하기**
+## 인덱스 확인하기
 
 ```
-**SHOW INDEXES IN 테이블명**
+SHOW INDEXES IN 테이블명;
 ```
 
 ```sql
@@ -15,7 +15,7 @@ SHOW INDEXES IN customers;
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjdfODUg/MDAxNTY5NTEwMjI5ODcw.F9U7qURtf9yI8X5NjENNdSi7D3AAlJ6br95ORV7ItvMg.qCLwLfWbXuYDgsO5GVsUuATLRJIpmtRWZN0RHPUOA1Ug.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjdfODUg/MDAxNTY5NTEwMjI5ODcw.F9U7qURtf9yI8X5NjENNdSi7D3AAlJ6br95ORV7ItvMg.qCLwLfWbXuYDgsO5GVsUuATLRJIpmtRWZN0RHPUOA1Ug.PNG.drv98/image.png?type=w773)
 
-## **PK 키는 자동으로 인덱스 생성**
+### **PK 키는 자동으로 인덱스 생성**
 
 ```sql
 SHOW INDEXES IN orders;
@@ -23,7 +23,7 @@ SHOW INDEXES IN orders;
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjdfMjA1/MDAxNTY5NTEwMjk5NTcw.I1oYkRC5tEatKtlvsRStETD4ZYKQjorUO4uIzPyUKNUg.F54lLV3mTrnxODpopj0tzJnfYWhQ8mSyn8VGqKGl_wog.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjdfMjA1/MDAxNTY5NTEwMjk5NTcw.I1oYkRC5tEatKtlvsRStETD4ZYKQjorUO4uIzPyUKNUg.F54lLV3mTrnxODpopj0tzJnfYWhQ8mSyn8VGqKGl_wog.PNG.drv98/image.png?type=w773)
 
-## **FK 키는 자동으로 인덱스 생성**
+### **FK 키는 자동으로 인덱스 생성**
 
 <br>
 
@@ -35,11 +35,11 @@ SHOW INDEXES IN orders;
 
 <br>
 
-# **인덱스 삭제하기**
+## **인덱스 삭제하기**
 
 
 ```
-**ALTER TABLE 테이블명 DROP INDEX 인덱스명;**
+ALTER TABLE 테이블명 DROP INDEX 인덱스명;
 ```
 
 ## **오라클에서는 (  DROP INDEX 인덱스명 )**
