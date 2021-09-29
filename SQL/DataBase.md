@@ -1,8 +1,7 @@
 # 데이터 베이스와 테이블 만들기
 
-## **IF EXISTS : 있다면**
-
-## **IF NOT EXISTS : 없다면**
+> **IF EXISTS : 있다면**   
+> **IF NOT EXISTS : 없다면**   
 
 ```sql
 CREATE DATABASE IF NOT EXISTS sql_store2;
