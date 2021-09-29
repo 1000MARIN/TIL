@@ -4,6 +4,8 @@
 > SELECT 절에 집계함수가 있을때, 다른 컬럼(열)이 있다면 그 칼럼은   
 > GROUP BY 다음에 적는 칼럼과 같다.   
 
+<br>
+
 ```sql
 -- GROUP BY 절
 SELECT	
@@ -25,7 +27,7 @@ ORDER BY 총판매금액 DESC
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjFfMjUz/MDAxNTY5MDUyMjc5ODM2.lBRW-ACLTwnmjqq7mV5VtxXjAFa0CDtczHz1p8tTzoMg.UQh37YbUWqRwaeUPcukmM9QvKEXWwIcfN5syIV9300og.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjFfMjUz/MDAxNTY5MDUyMjc5ODM2.lBRW-ACLTwnmjqq7mV5VtxXjAFa0CDtczHz1p8tTzoMg.UQh37YbUWqRwaeUPcukmM9QvKEXWwIcfN5syIV9300og.PNG.drv98/image.png?type=w773)
 
-****
+<br>
 
 **여기서 조건절을 넣는다면**
 
