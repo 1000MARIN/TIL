@@ -32,7 +32,9 @@ INDEX는 색인입니다. 해당 TABLE의 컬럼을 색인화(따로 파일로 �
 - 데이터 변경 작업이 자주 일어날 경우에 인덱스를 재작성해야 할 필요가 있기에 성능에 영향을 끼칠 수 있다.
 
 <br>
+
 따라서 어느 필드를 인덱스 해야 하는지 미리 시험해 보고 결정하는 것이 좋습니다. 인덱스를 추가하면 쿼리 속도가  빨라지지만, 데이터 행을 추가하는 속도는  느려지게 됩니다.
+
 <br>
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjZfMjYg/MDAxNTY5NTA4NDcyMzQ5.LCC3giSlw_ceGTaJ7GmlKhYZ99zwANRXNli-biQVd3Ag.CdwS2ManvPEM6uTa2dzenGCYFZjN8Do8IpJJJyovSyQg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjZfMjYg/MDAxNTY5NTA4NDcyMzQ5.LCC3giSlw_ceGTaJ7GmlKhYZ99zwANRXNli-biQVd3Ag.CdwS2ManvPEM6uTa2dzenGCYFZjN8Do8IpJJJyovSyQg.PNG.drv98/image.png?type=w773)
