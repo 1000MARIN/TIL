@@ -1,6 +1,6 @@
 # 새 유저(User) 생성 / 조회 / 삭제
 
-![https://postfiles.pstatic.net/MjAxOTEwMDNfNTMg/MDAxNTcwMDY4OTMzNDQw.-CsRYGBPIq5dXQ58bSbq7YGuMzwlSITpijnFY7_M9Rwg.LiQkhj5zHFYphQgsQNbTC-uJARMrmhuXTe61UoBDTQkg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTEwMDNfNTMg/MDAxNTcwMDY4OTMzNDQw.-CsRYGBPIq5dXQ58bSbq7YGuMzwlSITpijnFY7_M9Rwg.LiQkhj5zHFYphQgsQNbTC-uJARMrmhuXTe61UoBDTQkg.PNG.drv98/image.png?type=w773)
+> ![https://postfiles.pstatic.net/MjAxOTEwMDNfNTMg/MDAxNTcwMDY4OTMzNDQw.-CsRYGBPIq5dXQ58bSbq7YGuMzwlSITpijnFY7_M9Rwg.LiQkhj5zHFYphQgsQNbTC-uJARMrmhuXTe61UoBDTQkg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTEwMDNfNTMg/MDAxNTcwMDY4OTMzNDQw.-CsRYGBPIq5dXQ58bSbq7YGuMzwlSITpijnFY7_M9Rwg.LiQkhj5zHFYphQgsQNbTC-uJARMrmhuXTe61UoBDTQkg.PNG.drv98/image.png?type=w773)
 
 ## **새 유저 생성**
 
