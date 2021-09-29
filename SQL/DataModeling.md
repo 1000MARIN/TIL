@@ -4,18 +4,18 @@
 
 <br>
 
-# **draw i**
+### **draw i**
 
 [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
 
 <br>
 
-# **개념적 모델링**
+## **개념적 모델링**
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjZfMjMx/MDAxNTY5NTA1NDE0ODEz.Lliifm7KWnQYKfY7FsYWPgKaQJdQ45nb1cq2oPzxRB8g.Y615EGx4d6IDGQHGI5mvz9EQvSGTAhQftnbleVh6Trkg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjZfMjMx/MDAxNTY5NTA1NDE0ODEz.Lliifm7KWnQYKfY7FsYWPgKaQJdQ45nb1cq2oPzxRB8g.Y615EGx4d6IDGQHGI5mvz9EQvSGTAhQftnbleVh6Trkg.PNG.drv98/image.png?type=w773)
 
 <br>
 
-# **논리적 모델링**
+## **논리적 모델링**
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjZfMTc4/MDAxNTY5NTA1NTQ2ODE0.bVxAk12T8_Ti2QdWYHw-hHJqoH_Ha0yr-VfipHxbBP8g.HC8VPeIGuoWmQIqzsA2_W2c7TmTmX0KZSKexSP9V0Ikg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjZfMTc4/MDAxNTY5NTA1NTQ2ODE0.bVxAk12T8_Ti2QdWYHw-hHJqoH_Ha0yr-VfipHxbBP8g.HC8VPeIGuoWmQIqzsA2_W2c7TmTmX0KZSKexSP9V0Ikg.PNG.drv98/image.png?type=w773)
