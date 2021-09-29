@@ -43,13 +43,13 @@
     - [IN 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IN.md)
     - [BETWEEN 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/BETWEEN.md)
     - [LIKE 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIKE.md)
-    - [REGEXP(레귤러 익스프레션) 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/REGEXP.md)
+    - [REGEXP (레귤러 익스프레션) 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/REGEXP.md)
     - [IS NULL 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IS_NULL.md)
     - [ORDER BY 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ORDER_BY.md)
     - [LIMIT 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIMIT.md)
 
  * 멀티 테이블
-    - [INNER JOIN( 내부 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INNER_JOIN.md)
+    - [INNER JOIN ( 내부 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INNER_JOIN.md)
     - [SELF JOIN ( 자체 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SELF_JOIN.md)
     - [MULTI TABLE JOIN](https://github.com/1000MARIN/TIL/edit/1000marin/SQL/MultiTableJoin.md)
     - [NATURAL JOIN / CROSS JOIN](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/NaturalJoin_CrossJoin.md)
@@ -73,10 +73,23 @@
     - [인덱스 생성](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/CREATE_INDEX.md)
     - [인덱스 확인 / 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SHOW_INDEX.md)
     - [인덱스로 정렬 (Sorting)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Sorting_INDEX.md)
-    - 
+ 
      
  * 집계함수 / GROUP / 서브쿼리
+    - [집계 함수 (Aggregate Functions)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/AggregateFunctions.md)
+    - [GROUP BY 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/GROUP_BY.md)
+    - [HAVING 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/HAVING.md)
+    - [WITH ROLLUP 연산자 ( MYSQL)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/WITH_ROLLUP.md)
+    - [SubQuery](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SubQuery.md)
+    - [SubQuery vs JOIN](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SubQuery_vs_JOIN.md)
+    - [ALL 키워드](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ALL.md)
+    - [ANY 키워드](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ANY.md)
+    - [상호연관 서브쿼리](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SubQuery1.md)
+
+    
  * 유저 생성 / 삭제 / 권한
+    - 
+    
 
 
 
