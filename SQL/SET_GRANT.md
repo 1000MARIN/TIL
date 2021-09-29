@@ -72,6 +72,7 @@ SHOW GRANTS FOR john;
 ---
 
 <br>
+
 ## **권한 삭제**
 
 <br>
