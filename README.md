@@ -66,6 +66,15 @@
 
 
  * 모델링 / 인텍스
+    - [데이터 모델링 : 개념/논리](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/DataModeling.md)
+    - [물리적 모델링](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/PhysicalModeling.md)
+    - [데이터 베이스와 테이블 생성](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/DataBase.md)
+    - [인덱스 소개](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Index.md)
+    - [인덱스 생성](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/CREATE_INDEX.md)
+    - [인덱스 확인 / 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SHOW_INDEX.md)
+    - [인덱스로 정렬 (Sorting)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Sorting_INDEX.md)
+    - 
+     
  * 집계함수 / GROUP / 서브쿼리
  * 유저 생성 / 삭제 / 권한
 
