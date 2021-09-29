@@ -12,9 +12,11 @@ SET PASSWORD FOR john = '12345' ;
 
 ## **권한 부여**
 
+```sql
 GRANT 권한 [, 권한, ..]
 ON 데이터베이스.테이블
 TO 유저이름;
+```
 
 <br>
 
