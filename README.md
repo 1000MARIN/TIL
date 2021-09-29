@@ -36,9 +36,7 @@
  * [파일 조작하기](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/FileManipulation.md)
 
 ### SQL
-<details>
-<summary>* 싱글 테이블</summary>
-<div markdown="1">       
+ * 싱글 테이블
     - [Select 문 / Select 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Select.md)
     - [WHERE 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/WHERE.md)
     - [AND, OR , NOT 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/AND_OR_NOT.md)
@@ -49,10 +47,6 @@
     - [IS NULL 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IS_NULL.md)
     - [ORDER BY 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ORDER_BY.md)
     - [LIMIT 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIMIT.md)
-</div>
-</details>
- 
-    
 
  * 멀티 테이블
     - [INNER JOIN ( 내부 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INNER_JOIN.md)
