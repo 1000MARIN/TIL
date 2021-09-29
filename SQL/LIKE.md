@@ -9,17 +9,26 @@ WHERE last_name LIKE 'b%'
 
 ![https://postfiles.pstatic.net/MjAxOTA5MTJfMzIg/MDAxNTY4MjU0ODA1MjA4.zmqpyhaBJpmmkXWvkK3LPMd4JxZTvZn7_anH22oE_a0g.QO3icmbojKRPq2g3B4KGcBuS5cvmwFpGf7G7QPEmBawg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MTJfMzIg/MDAxNTY4MjU0ODA1MjA4.zmqpyhaBJpmmkXWvkK3LPMd4JxZTvZn7_anH22oE_a0g.QO3icmbojKRPq2g3B4KGcBuS5cvmwFpGf7G7QPEmBawg.PNG.drv98/image.png?type=w773)
 
+<br>
+
+
 ```sql
 WHERE last_name LIKE '%b%'
 ```
 
 ![https://postfiles.pstatic.net/MjAxOTA5MTJfMTE0/MDAxNTY4MjU0OTIxNTQ1.jyeGWr2NCHFuh5zue7F4-orIKnvhGyiRIa2errethocg.nWYhJ-LfG-qXM6BCtZWBEIMXtY39Vl-QkxC5u9TU814g.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MTJfMTE0/MDAxNTY4MjU0OTIxNTQ1.jyeGWr2NCHFuh5zue7F4-orIKnvhGyiRIa2errethocg.nWYhJ-LfG-qXM6BCtZWBEIMXtY39Vl-QkxC5u9TU814g.PNG.drv98/image.png?type=w773)
 
+<br>
+
+
 ```sql
 WHERE last_name LIKE '%y'
 ```
 
 ![https://postfiles.pstatic.net/MjAxOTA5MTJfMjQw/MDAxNTY4MjU1MDAwODcy.U4HoqEQaETGByOAScz4faelERwunNQuXuUW0O1Cvx9gg.qcVN-hi3VoT28xzI0W3zkA0UpnIvcuU7hV79MsqVvVQg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MTJfMjQw/MDAxNTY4MjU1MDAwODcy.U4HoqEQaETGByOAScz4faelERwunNQuXuUW0O1Cvx9gg.qcVN-hi3VoT28xzI0W3zkA0UpnIvcuU7hV79MsqVvVQg.PNG.drv98/image.png?type=w773)
+
+<br>
+
 
 ```sql
 WHERE last_name LIKE '_____y'
