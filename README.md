@@ -90,7 +90,6 @@
  * 유저 생성 / 삭제 / 권한
     - [새 유저 (User) 생성 / 조회 / 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/USER.md)
     - [비밀번호 수정 / 권한 부여 / 권한 확인 / 권한 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SET_GRANT.md)
-    - []()
     
 
 
