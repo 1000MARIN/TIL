@@ -91,11 +91,7 @@ SHOW STATUS LIKE 'last_query_cost';
 
 ### **order by 정렬은 CPU 연산등 자원 사용이 큰편**
 
-<br>
-
 ### **INDEX ( a , b )**
-
-<br>
 
 ### **정렬 a**
 
