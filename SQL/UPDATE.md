@@ -38,5 +38,86 @@ WHERE invoice_id = 1;
 
 ---
 
+##  여러줄(rows) 업데이트
+![https://postfiles.pstatic.net/MjAxOTA5MThfMjIz/MDAxNTY4NzkwNTUzMDMx.Hjag9xprvcYGOFCKUymWkdrhKs7eGKjG7_322DaZ_1cg.wWzheuP6KtKzAwymHey00Ny-kNsowzfnbfErNm-zV6Ag.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfMjIz/MDAxNTY4NzkwNTUzMDMx.Hjag9xprvcYGOFCKUymWkdrhKs7eGKjG7_322DaZ_1cg.wWzheuP6KtKzAwymHey00Ny-kNsowzfnbfErNm-zV6Ag.PNG.drv98/image.png?type=w773)
 
-## 
+여러줄을 업데이트 하기 위해 SAFE 업데이트 옵션을 끈다.
+
+옵션을 재설정 한 다름 워크벤치를 종료한 뒤 새로 실행한다.
+
+<br>
+
+```sql
+UPDATE invoices
+SET 
+		payment_total = invoice_total * 0.5,
+    payment_date = due_date
+WHERE client_id = 3;
+```
+
+![https://postfiles.pstatic.net/MjAxOTA5MThfMjYw/MDAxNTY4NzkwMTMwOTQy.dU-L7Na5a8tIPDgx1AuffKcXeYkdJX5VpWSNQ00rwsMg.Iedcjmod1OYGKhUnMkGQ7fLX2OhkFL_SATHFKem5qEwg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfMjYw/MDAxNTY4NzkwMTMwOTQy.dU-L7Na5a8tIPDgx1AuffKcXeYkdJX5VpWSNQ00rwsMg.Iedcjmod1OYGKhUnMkGQ7fLX2OhkFL_SATHFKem5qEwg.PNG.drv98/image.png?type=w773)
+
+---
+
+## 서브쿼리를 이용한 업데이트
+
+```sql
+UPDATE invoices
+SET 
+		payment_total = invoice_total * 0.5,
+    payment_date = due_date
+WHERE client_id = 3;
+```
+
+위의 업데이트문은 이전 업데이트에서 client_id가  3번인 모든 invoice를 업데이트 했다.
+
+client_id 대신 client의 이름을 'Myworks' 로 알고 있을때, 서브쿼리를 사용해 해당하는 client_id의 줄을 업데이트 하자.
+
+<br>
+
+```sql
+SELECT client_id
+FROM clients
+WHERE name = 'Myworks';
+```
+
+위의 셀렉트 문을 서브쿼리로 사용하면 다음과 같이
+
+<br>
+
+
+```sql
+UPDATE invoices
+SET 
+		payment_total = invoice_total * 0.5,
+    payment_date = due_date
+WHERE client_id = 
+                   (SELECT .... )
+```
+
+![https://postfiles.pstatic.net/MjAxOTA5MThfNzQg/MDAxNTY4ODAyNDYyMjE4.pzNRtAhqzDQzsQjdGRAQ8EVRBI7k9-WkvB-wo7xJ5C4g.PRYxyw1JFpIZ5uN9PFAx6BbAeyxQH52YaHJp-GER2Bgg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfNzQg/MDAxNTY4ODAyNDYyMjE4.pzNRtAhqzDQzsQjdGRAQ8EVRBI7k9-WkvB-wo7xJ5C4g.PRYxyw1JFpIZ5uN9PFAx6BbAeyxQH52YaHJp-GER2Bgg.PNG.drv98/image.png?type=w773)
+
+<br>
+
+```sql
+SELECT client_id
+		FROM clients
+		WHERE state IN('CA', 'NY');
+```
+
+![https://postfiles.pstatic.net/MjAxOTA5MThfMTQ4/MDAxNTY4ODAyNTI4ODIw.y0JZyoyE_DazwNQ7L_XoAQZ5aj8TZpbPis6RjsQYidcg.-hCIcmRXQx3RNM_eIFcEIoARtQ2S_Dq1j6_t6mn_Ejsg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MThfMTQ4/MDAxNTY4ODAyNTI4ODIw.y0JZyoyE_DazwNQ7L_XoAQZ5aj8TZpbPis6RjsQYidcg.-hCIcmRXQx3RNM_eIFcEIoARtQ2S_Dq1j6_t6mn_Ejsg.PNG.drv98/image.png?type=w773)
+
+```sql
+UPDATE invoices
+SET 
+		payment_total = invoice_total * 0.5,
+    payment_date = due_date
+WHERE client_id = 
+    ( SELECT client_id
+		  FROM clients
+		  WHERE state IN('CA', 'NY') );
+```
+
+**멀티로우(row) 값이 출력되는 서브쿼리에 맞는 연산자를 사용 => IN ANY ALL**
+
+
