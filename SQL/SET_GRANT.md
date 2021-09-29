@@ -93,7 +93,7 @@ CREATE TABLE moon_table(
 
 <br>
 
-## **권한 삭제**
+## **권한 **
 
 REVOKE 권한 [, 권한, ..]
 ON 데이터베이스.테이블
