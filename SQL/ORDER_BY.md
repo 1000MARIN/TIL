@@ -11,6 +11,8 @@ FROM customers;
 
 ![https://postfiles.pstatic.net/MjAxOTA5MTJfOTgg/MDAxNTY4MjYxOTk1NzI2.EkxbPuXcuu8LPMJrxLnkMLnbUdCbkwAUpSK1WNHRUd4g.ktxXWUANhw2cQrSVqm7Ix-scVxp3hyKpAZTqPYj7VnEg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MTJfOTgg/MDAxNTY4MjYxOTk1NzI2.EkxbPuXcuu8LPMJrxLnkMLnbUdCbkwAUpSK1WNHRUd4g.ktxXWUANhw2cQrSVqm7Ix-scVxp3hyKpAZTqPYj7VnEg.PNG.drv98/image.png?type=w773)
 
+<br>
+
 ```sql
 SELECT customer_id, first_name, last_name, state
 FROM customers
