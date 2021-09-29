@@ -13,6 +13,8 @@ NATURAL JOIN customers c;
 
 ---
 
+<br>
+
 ## Cross Join
 
 ```sql
