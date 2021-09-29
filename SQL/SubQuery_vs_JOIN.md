@@ -87,6 +87,8 @@ WHERE invoice_id IS NULL;
 
 테이블 관계도
 
+<br>
+
 **sql_store 에서 product_id 가 3번인 lettuce를 주문한 고객(customer)의 고객아이디, 성, 이름 을 아래와 같이 출력**
 
 ![https://postfiles.pstatic.net/MjAxOTA5MjJfNjEg/MDAxNTY5MTA4NjAyNjQ5.xoV6hwBwbu4c1Y5Abf8Gtg6LqpsoOh2lrvWhywt-oSEg.KJ4wIkNX0nYxh5lGfL5XyRlSTFJi6HPfksHbUcWUb9Eg.PNG.drv98/image.png?type=w773](https://postfiles.pstatic.net/MjAxOTA5MjJfNjEg/MDAxNTY5MTA4NjAyNjQ5.xoV6hwBwbu4c1Y5Abf8Gtg6LqpsoOh2lrvWhywt-oSEg.KJ4wIkNX0nYxh5lGfL5XyRlSTFJi6HPfksHbUcWUb9Eg.PNG.drv98/image.png?type=w773)
