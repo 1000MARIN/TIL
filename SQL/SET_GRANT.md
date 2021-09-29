@@ -72,12 +72,15 @@ SHOW GRANTS FOR john;
 ---
 
 <br>
-
 ## **권한 삭제**
 
-### moon_app 유저에게 sql_store데이터 베이스에서 테이블등을 만들수 있는
+<br>
 
-### CREATE 권한을 부여
+### **권한 부여**
+
+#### moon_app 유저에게 sql_store데이터 베이스에서 테이블등을 만들수 있는
+
+#### CREATE 권한을 부여
 
 ```sql
 GRANT CREATE
@@ -93,7 +96,7 @@ CREATE TABLE moon_table(
 
 <br>
 
-## **권한 **
+## **권한 삭제**
 
 REVOKE 권한 [, 권한, ..]
 ON 데이터베이스.테이블
