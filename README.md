@@ -25,6 +25,7 @@
  * [extends](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Extends.md)
  * [예외 처리](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Exception.md)
  * [인터페이스](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Interface.md)
+ * [콜렉션](https://github.com/1000MARIN/TIL/blob/1000marin/Java/IntCollection.md)
 
 ### Maven
  * [Maven 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Maven/Maven.md)
