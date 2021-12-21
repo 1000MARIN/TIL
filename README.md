@@ -1,16 +1,16 @@
-# :pushpin: Today I Learned (TIL) :pushpin:
+# :open_file_folder: Today I Learned (TIL) 
 >오늘 배운, 알게 된, 학습한 내용을 정리해두는 저장소   
 >이해한 만큼만 직접 작성   
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가   
 
 ---
-### ETC   
+### :pushpin: ETC   
  * [Restful API 란?](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/RESTful_API.md)
 
-### Spring
+### :pushpin: Spring
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
 
-### Java
+### :pushpin: Java
  * [boolean](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_boolean.md)
  * [비교연산자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_Operator.md)
  * [조건문](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ConditionalOperator.md)
@@ -27,19 +27,19 @@
  * [인터페이스](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Interface.md)
  * [콜렉션](https://github.com/1000MARIN/TIL/blob/1000marin/Java/IntCollection.md)
 
-### Maven
+### :pushpin: Maven
  * [Maven 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Maven/Maven.md)
 
-### Servlet / JSP
+### :pushpin: Servlet / JSP
  * [Servlet / JSP 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Servlet_JSP/Servlet_JSP.md)
 
-### Linux
+### :pushpin: Linux
  * [기초명령어](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/command.md)
  * [파일](https://github.com/1000MARIN/TIL/tree/1000marin/Linux)
  * [명령어 매뉴얼](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/Man.md)
  * [파일 조작하기](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/FileManipulation.md)
 
-### SQL
+### :pushpin: SQL
  * 싱글 테이블
     - [Select 문 / Select 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Select.md)
     - [WHERE 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/WHERE.md)
