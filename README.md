@@ -4,7 +4,7 @@
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가   
 
 ---
-### :pushpin: ETC   
+## :pushpin: ETC   
  * [Restful API 란?](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/RESTful_API.md)
 
 ### :pushpin: Spring
