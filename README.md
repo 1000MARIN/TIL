@@ -7,10 +7,13 @@
 ## :pushpin: ETC   
  * [Restful API 란?](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/RESTful_API.md)
 
-### :pushpin: Spring
- * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
+<br>
 
-### :pushpin: Java
+## :pushpin: Spring
+ * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
+<br>
+
+## :pushpin: Java
  * [boolean](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_boolean.md)
  * [비교연산자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_Operator.md)
  * [조건문](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ConditionalOperator.md)
@@ -26,20 +29,24 @@
  * [예외 처리](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Exception.md)
  * [인터페이스](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Interface.md)
  * [콜렉션](https://github.com/1000MARIN/TIL/blob/1000marin/Java/IntCollection.md)
+<br>
 
-### :pushpin: Maven
+## :pushpin: Maven
  * [Maven 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Maven/Maven.md)
+<br>
 
-### :pushpin: Servlet / JSP
+## :pushpin: Servlet / JSP
  * [Servlet / JSP 기초](https://github.com/1000MARIN/TIL/blob/1000marin/Servlet_JSP/Servlet_JSP.md)
+<br>
 
-### :pushpin: Linux
+## :pushpin: Linux
  * [기초명령어](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/command.md)
  * [파일](https://github.com/1000MARIN/TIL/tree/1000marin/Linux)
  * [명령어 매뉴얼](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/Man.md)
  * [파일 조작하기](https://github.com/1000MARIN/TIL/blob/1000marin/Linux/FileManipulation.md)
+<br>
 
-### :pushpin: SQL
+## :pushpin: SQL
  * 싱글 테이블
     - [Select 문 / Select 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Select.md)
     - [WHERE 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/WHERE.md)
@@ -51,6 +58,7 @@
     - [IS NULL 연산자](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/IS_NULL.md)
     - [ORDER BY 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ORDER_BY.md)
     - [LIMIT 절](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/LIMIT.md)
+<br>
 
  * 멀티 테이블
     - [INNER JOIN ( 내부 조인 )](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INNER_JOIN.md)
@@ -58,16 +66,16 @@
     - [MULTI TABLE JOIN](https://github.com/1000MARIN/TIL/edit/1000marin/SQL/MultiTableJoin.md)
     - [NATURAL JOIN / CROSS JOIN](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/NaturalJoin_CrossJoin.md)
     - [Union](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Union.md)
+<br>
 
-
- * 입력 / 수정 / 삭제 데이터
+* 입력 / 수정 / 삭제 데이터
     - [컬럼 속성 알아보기](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Column.md)
     - [INSERT](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/INSERT.md)
     - [테이블 복사/ 서브쿼리 입력](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/TableCopy.md)
     - [UPDATE](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/UPDATE.md)
     - [DELETE](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/DELETE.md)
     - [VIEW](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/VIEW.md)
-
+<br>
 
  * 모델링 / 인텍스
     - [데이터 모델링 : 개념/논리](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/DataModeling.md)
@@ -77,7 +85,7 @@
     - [인덱스 생성](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/CREATE_INDEX.md)
     - [인덱스 확인 / 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SHOW_INDEX.md)
     - [인덱스로 정렬 (Sorting)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/Sorting_INDEX.md)
- 
+ <br>
      
  * 집계함수 / GROUP / 서브쿼리
     - [집계 함수 (Aggregate Functions)](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/AggregateFunctions.md)
@@ -89,7 +97,7 @@
     - [ALL 키워드](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ALL.md)
     - [ANY 키워드](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/ANY.md)
     - [상호연관 서브쿼리](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/SubQuery1.md)
-
+<br>
     
  * 유저 생성 / 삭제 / 권한
     - [새 유저 (User) 생성 / 조회 / 삭제](https://github.com/1000MARIN/TIL/blob/1000marin/SQL/USER.md)
