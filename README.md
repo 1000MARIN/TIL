@@ -1,4 +1,4 @@
-# :open_file_folder: Today I Learned (TIL) 
+# :open_file_folder: Today I Learned (TIL) :open_file_folder:
 >오늘 배운, 알게 된, 학습한 내용을 정리해두는 저장소   
 >이해한 만큼만 직접 작성   
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가   
