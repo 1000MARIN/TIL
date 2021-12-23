@@ -47,7 +47,7 @@ System.out.println(c);         // X
 
 <br>
 
--- 다음 예제처럼 오토 박싱과 오토 언박싱을 통해 기본 타입과 래퍼 클래스 간의 다양한 연산도 가능.  
++ 다음 예제처럼 오토 박싱과 오토 언박싱을 통해 기본 타입과 래퍼 클래스 간의 다양한 연산도 가능.  
 ```java
 public class Wrapper02 {
     public static void main(String[] args) {
