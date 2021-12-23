@@ -7,5 +7,12 @@
 이러한 래퍼 클래스는 모두 java.lang 패키지에 포함되어 제공.   
 
 |기본 타입|래퍼 클래스|
-|----|----|
+|--------|--------|
 |byte|Byte|
+|short|Short|
+|int|Integer|
+|long|Long|
+|float|Float|
+|double|Double|
+|char|Character|
+|boolean|Boolean|
