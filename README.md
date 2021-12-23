@@ -29,6 +29,7 @@
  * [예외 처리](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Exception.md)
  * [인터페이스](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Interface.md)
  * [콜렉션](https://github.com/1000MARIN/TIL/blob/1000marin/Java/IntCollection.md)
+ * [래퍼 클래스 - 박싱(Boxing)과 언박싱(UnBoxing)](https://github.com/1000MARIN/TIL/blob/1000marin/Java/WrapperClass.md)
 <br>
 
 ## :pushpin: Maven
