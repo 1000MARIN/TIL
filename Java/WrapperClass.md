@@ -16,3 +16,11 @@
 |double|Double|
 |char|Character|
 |boolean|Boolean|
+
+<br>
+
+## 박싱(Boxing)과 언박싱(UnBoxing)
+> 래퍼 클래스(Wrapper class)는 산술 연산을 위해 정의된 클래스가 아니므로, 인스턴스에 저장된 값을 변경할 수 없다.   
+> 단지, 값을 참조하기 위해 새로운 인스턴스를 생성하고, 생성된 인스턴스의 값만을 참조할 수 있다.   
+
+![img_java_boxing_unboxing](https://user-images.githubusercontent.com/84886987/147170928-2f83860b-192a-4dcb-b531-493699fbe198.png)
