@@ -15,6 +15,37 @@ Tomcat이 사용하고 있는 기본 포트(8080, 8009, 8005)가 이미 사용�
 
 <br>
 
+```cmd
+netstat -p tcp -ano
+
+C:\Windows\system32>netstat -p tcp -ano
+ 
+활성 연결
+ 
+  프로토콜  로컬 주소              외부 주소              상태            PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1028
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING       1076
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       5756
+  TCP    0.0.0.0:8009           0.0.0.0:0              LISTENING       9184
+  TCP    0.0.0.0:8080           0.0.0.0:0              LISTENING       9184
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING       1076
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       672
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1556
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1144
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING       3052
+  TCP    0.0.0.0:49837          0.0.0.0:0              LISTENING       748
+  TCP    0.0.0.0:49874          0.0.0.0:0              LISTENING       756
+  TCP    0.0.0.0:53320          0.0.0.0:0              LISTENING       10524
+  TCP    127.0.0.1:1235         0.0.0.0:0              LISTENING       4012
+  TCP    127.0.0.1:8005         0.0.0.0:0              LISTENING       9184
+  TCP    127.0.0.1:49675        127.0.0.1:49676        ESTABLISHED     3684
+    ...                        ...                    ...                    ...
+Colored by Color Scripter
+cs
+
+```
+
 netstat -p tcp -ano
 
 C:\Windows\system32>netstat -p tcp -ano
