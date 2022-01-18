@@ -1,7 +1,7 @@
 # [Tomcat 에러]Several ports (8005, 8080, 8009) required by Tomcat v9.0 Server at localhost are already in use.    
->Several ports (8005, 8080, 8009) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
->톰캣을 구동시켰을 때 생긴 포트 오류이다.  
->이클립스가 비정상적으로 종료가 된 후에 톰캣을 구동시켰을 때 발생했다.
+>Several ports (8005, 8080, 8009) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).   
+>톰캣을 구동시켰을 때 생긴 포트 오류이다.     
+>이클립스가 비정상적으로 종료가 된 후에 톰캣을 구동시켰을 때 발생했다.   
 
 <br>
 
