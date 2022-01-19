@@ -12,6 +12,7 @@
 
 ## :pushpin: Spring
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
+ * [[스프링부트] hibernate, data.sql 실행시 오류 해결](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/hibernateData.md)
 <br>
 
 ## :pushpin: Java
