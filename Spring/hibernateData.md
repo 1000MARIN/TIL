@@ -1,4 +1,9 @@
-# hibernate, data.sql 실행시 오류 해결  
+# hibernate, data.sql 실행시 오류 해결
+>문제 발생   
+>User엔티티와 Authority엔티티를 정의하고, User, Authority에 구동시 데이터를 넣어주기 위해 resources 디렉토리 하위에 data.sql스크립트(Insert문 5개)를 추가했다.   
+>이 상태로 서버를 구동하고 localhost:8080/h2-console을 치면 테이블이 생성되어있고 데이터들이 들어가야 되는데 Insert 에러가 뜨면서 서버가 구동되지 않는다.
+
+
 ## 프로젝트 환경  
 > SpringBoot 2.5.5  
 > h2 Database   
@@ -9,12 +14,6 @@ application.yml (H2, JPA 설정)
 <br>
 
 ![image](https://media.vlpt.us/images/kero1004/post/284d2c7f-6f72-4fc9-b5e2-010a47c94706/image.png)
-
-<br>
-
-### 문제 발생
-User엔티티와 Authority엔티티를 정의하고, User, Authority에 구동시 데이터를 넣어주기 위해 resources 디렉토리 하위에 data.sql스크립트(Insert문 5개)를 추가했다.
-이 상태로 서버를 구동하고 localhost:8080/h2-console을 치면 테이블이 생성되어있고 데이터들이 들어가야 되는데 Insert 에러가 뜨면서 서버가 구동되지 않는다.
 
 <br>
 
