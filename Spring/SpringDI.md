@@ -1,8 +1,15 @@
-# Spring DI(의존성 주입, Dependency Injection)
->의존성 주입은 IoC(Inversion of Control - 제어권 역전)의 일종
+# Spring DI(의존성 주입, Dependency Injection)   
+>의존성 주입은 IoC(Inversion of Control - 제어권 역전)의 일종   
+
+
 <br>
+
+
 * 일반적인 의존성에 대한 제어권 : 개발자가 직접 의존성을 만든다.  
 * 의존성은 쉽게 말해 어떤 객체가 사용해야 할 객체라고 할 수 있고, 이것을 직접 new 등을 써서 만들어 쓰면 의존성을 자기가 직접 만들어 쓴다고 할 수 있다.   
+
+<br>
+
 ```java
 public class OwnerController {
 	private OwnerRepository ownerRepository = new OwnerRepository();
