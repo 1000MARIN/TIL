@@ -21,7 +21,7 @@
 
 <br>
 
-UNIFYING 앱열기를 
+UNIFYING 앱열기를 클릭
 <br>
 
 ![2](https://user-images.githubusercontent.com/84886987/150668145-4864dd1a-45c7-4ac4-9473-8a9ef2c75454.png)
