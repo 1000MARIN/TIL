@@ -37,10 +37,12 @@ public OwnerController(OwnerRepository clinicService, VisitRepository visits) {
 <br>
 
 ## 스프링에서 의존성을 주입하는 방법
+
 <br>
-* 생성자에서 주입  
-* 필드에서 주입  
-* setter 에서 주입  
+
+* 생성자에서 주입    
+* 필드에서 주입    
+* setter 에서 주입    
 
 <br>
 
