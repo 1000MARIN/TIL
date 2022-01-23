@@ -13,7 +13,8 @@
 
 ## :pushpin: Spring
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
- * [[스프링부트] hibernate, data.sql 실행시 오류 해결](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/hibernateData.md)
+ * [Spring DI(의존성 주입, Dependency Injection)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/SpringDI.md)
+ * [[Spring Boot] hibernate, data.sql 실행시 오류 해결](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/hibernateData.md)
  * [[JPA]JPQL 에러 (For queries with named parameters you need to use provide names for method parameters)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Param.md)
 <br>
 
