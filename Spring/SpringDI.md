@@ -18,9 +18,12 @@ public class OwnerController {
 ```
 
 <br>
-### Inversion of Control - 제어권 역전
-* IoC 라는 말 자체는 어렵게 들릴 수 있지만, 위에서처럼 직접적으로 의존성을 만들지 않고, 외부에서 의존성을 가져오는 경우를 말한다.
-* 즉, 밖에서 나에게 의존성을 주입해주는 것을 DI(Dependency Injection) 라고 합니다. 따라서 DI는 IoC의 일종이라고 생각하시면 e된다.
+
+### Inversion of Control - 제어권 역전   
+* IoC 라는 말 자체는 어렵게 들릴 수 있지만, 위에서처럼 직접적으로 의존성을 만들지 않고, 외부에서 의존성을 가져오는 경우를 말한다.    
+* 즉, 밖에서 나에게 의존성을 주입해주는 것을 DI(Dependency Injection) 라고 합니다. 따라서 DI는 IoC의 일종이라고 생각하시면 e된다.    
+
+<br>
 
 ```java
 public OwnerController(OwnerRepository clinicService, VisitRepository visits) {
@@ -30,6 +33,8 @@ public OwnerController(OwnerRepository clinicService, VisitRepository visits) {
 // OwnerController의 생성자에서 OwnerRepository를 인자로 받고, owners에 담고 있다.
 // 이는 앞의 예시처럼 객체를 직접 생성하지 않고, 외부의 객체를 받고 있는 것이다.
 ```
+
+<br>
 
 ## 스프링에서 의존성을 주입하는 방법
 <br>
