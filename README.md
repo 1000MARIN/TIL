@@ -13,6 +13,11 @@
 <br>
 
 ## :pushpin: Spring
+ * [[HTTP]HTTP 상태 401(Unauthorized) vs  403(Forbidden) 차이](https://github.com/1000MARIN/TIL/blob/1000marin/NETWORK/HTTP401VS402.md)
+
+<br>
+
+## :pushpin: Spring
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
  * [Spring DI (의존성 주입, Dependency Injection)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/SpringDI.md)
  * [[Spring Boot] hibernate, data.sql 실행시 오류 해결](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/hibernateData.md)
