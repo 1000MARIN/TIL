@@ -17,6 +17,11 @@
 
 <br>
 
+## :pushpin: Data Structure
+ * [List](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/List.md)
+
+<br>
+
 ## :pushpin: Spring
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
  * [Spring DI (의존성 주입, Dependency Injection)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/SpringDI.md)
