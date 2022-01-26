@@ -117,6 +117,8 @@ temp[0] = new Integer(12);        // throws ArrayStoreException,
 
   * ArrayList : Generics(제네릭스)를 통해 Type-Safety를 보장한다.
 
+<br>
+
 ### 6. Length
 
   * Array : Array의 길이를 반환하는 length 변수
@@ -132,12 +134,16 @@ int arraylength = arrayobject.length;
 int len = arraylist.size();    // uses arraylistobject size method
 ```
 
-*** 7. Adding elements
+<br>
+
+### 7. Adding elements
 
   * Array : Assign operator(=)를 사용하여 요소를 추가한다.
   * ArrayList : add() 메소드를 사용하여 요소를 추가한다.
 
-*** 8. Multi-dismensional
+<br>
+
+### 8. Multi-dismensional
 
   * Array : 다차원이 가능하다.
 
