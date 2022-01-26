@@ -78,7 +78,7 @@ public void setOwners(OwnerRepository owners){
 
 <br>
 
-이 중 <span style="color:red">```스프링 레퍼런스에서 권장하는 방법은 (1) 생성자에서 주입받는 것.```</span>
+이 중 <span style="color:red">스프링 레퍼런스에서 권장하는 방법은 (1) 생성자에서 주입받는 것.</span>
 
 이것이 권장되는 이유는, 필수적으로 사용해야 하는 레퍼런스(객체, 의존성) 없이는 인스턴스를 만들지 못하도록 강제하는 역할을 할 수 있기 때문.
 
