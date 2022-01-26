@@ -12,7 +12,7 @@
 
 <br>
 
-## :pushpin: Spring
+## :pushpin: NETWORK
  * [[HTTP]HTTP 상태 401(Unauthorized) vs  403(Forbidden) 차이](https://github.com/1000MARIN/TIL/blob/1000marin/NETWORK/HTTP401VS402.md)
 
 <br>
