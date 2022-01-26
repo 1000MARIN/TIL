@@ -48,7 +48,7 @@ public OwnerController(OwnerRepository clinicService, VisitRepository visits) {
 
 스프링에서 @Autowired 어노테이션은 filed, 생성자, setter 메소드 등에 붙여서 사용할 수 있다.
 이는 의존성을 주입할 때 붙이게 되는데,   
-```스프링 4.3 이상부터는 생성자로 의존성을 주입할 때에는 @Autowired 어노테이션을 생략할 수 있다.```   
+**```스프링 4.3 이상부터는 생성자로 의존성을 주입할 때에는 @Autowired 어노테이션을 생략할 수 있다.```**   
 
 ### (1) 생성자 활용 : OwnerController에 OwnerRepository 의존성을 생성자를 통해 주입
 ```java
