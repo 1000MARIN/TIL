@@ -101,7 +101,7 @@ arraylisttoobject.add(new Integer(23));
 
 <br>
 
-### Iterating the values
+### 4. Iterating the values
   * Array : for loop 아니면 for each loop를 통해 array를 순회할 수 있다.
   * ArrayList : iterator를 사용해 ArrayList를 순회할 수 있다.
 
