@@ -3,16 +3,18 @@
 <br>
 
 ### ArrayList 구조
->ArrayList는 내부적으로 **배열의 형태**를 지니고 있다.
 
 ![image](https://user-images.githubusercontent.com/84886987/151286777-d9766db9-153e-4ca8-9319-9a8ae3d2c96f.png)
+
+>ArrayList는 내부적으로 **배열의 형태**를 지니고 있다.
 
 <br>
 
 ### LinkedList 구조
->[JAVA LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)를 보게 되면 LinkedList는 이중 연결 리스트의 형태를 가지고 있음을 알 수 있다.  
 
 ![image](https://user-images.githubusercontent.com/84886987/151286901-0d8f34a8-7088-420b-b3ea-6baddbc2fec9.png)
+
+>[JAVA LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)를 보게 되면 LinkedList는 이중 연결 리스트의 형태를 가지고 있음을 알 수 있다.  
 
 <br>
 
