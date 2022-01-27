@@ -170,3 +170,14 @@ member1 == member2; // false
 
 `MemberDao.getMember()`는 호출할 때마다 `new Member()`로 새로운 인스턴스가 반환되기 때문이다.
 
+<br>
+<br>
+<br>
+
+***
+
+### Reference
+
+>김영한, 『자바 ORM 표준 JPA 프로그래밍』
+
+
