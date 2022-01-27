@@ -20,7 +20,7 @@
 ## :pushpin: Data Structure
  * [List](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/List.md)
  * [Array vs ArrayList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/ArrayVsArrayList.md)
- * [ArrayList vs LinkedList]()
+ * [ArrayList vs LinkedList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/ArrayListVsLinkedList.md)
 
 <br>
 
