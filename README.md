@@ -26,11 +26,13 @@
 <br>
 
 ## :pushpin: Spring
+ * [[JPA] 영속성 컨텍스트(Persistence Context)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/PersistenceContext.md)
+ * [[JPA]JPQL 에러 (For queries with named parameters you need to use provide names for method parameters)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Param.md)
+ * [[JPA] JPA란? JPA를 사용하는 이유](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/JPA.md)
  * [스프링 개발환경 구축](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Start.md)
  * [Spring DI (의존성 주입, Dependency Injection)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/SpringDI.md)
  * [[Spring Boot] hibernate, data.sql 실행시 오류 해결](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/hibernateData.md)
- * [[JPA]JPQL 에러 (For queries with named parameters you need to use provide names for method parameters)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Param.md)
- * [[JPA] JPA란? JPA를 사용하는 이유](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/JPA.md)
+ 
 <br>
 
 ## :pushpin: Java
