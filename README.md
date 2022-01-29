@@ -26,7 +26,7 @@
 <br>
 
 ## :pushpin: Spring
- * [플러시(flush)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/flush.md)
+ * [[JPA]플러시(flush)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/flush.md)
  * [[JPA] 영속성 컨텍스트(Persistence Context)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/PersistenceContext.md)
  * [[JPA]JPQL 에러 (For queries with named parameters you need to use provide names for method parameters)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Param.md)
  * [[JPA] JPA란? JPA를 사용하는 이유](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/JPA.md)
