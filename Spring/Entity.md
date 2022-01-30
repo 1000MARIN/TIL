@@ -11,12 +11,16 @@
 Member member = new Member();
 ```
 
+<br>
+
 ## 영속(managed)
 EntityManager를 통해 엔티티를 영속성 컨텍스트에 저장되어 `영속성 컨텍스트가 관리`하는 상태
 
 ```java
 em.persist(member); // 객체 저장
 ```
+
+<br>
 
 ## 준영속(detached)
 영속성 컨텍스트에 저장되었다가 분리된(detached) 상태
@@ -27,6 +31,8 @@ em.detach(member); // 특정 엔티티를 분리
 em.close(); // 영속성 컨텍스트 닫기
 em.clear(); // 영속성 컨텍스트 초기화
 ```
+
+<br>
 
 ## 삭제(removed)
 엔티티를 영속성 컨텍스트와 데이터베이스에서 삭제한 상태
@@ -107,7 +113,7 @@ Memeber mergeMember = em.merge(member);
 <br>
 <br>
 
-**
+***
 
 <br>
 
