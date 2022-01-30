@@ -26,6 +26,7 @@
 <br>
 
 ## :pushpin: Spring
+ * [[JPA] Entity 생명주기(Entity LifeCycle)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Entity.md)
  * [[JPA] 플러시(flush)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/flush.md)
  * [[JPA] 영속성 컨텍스트(Persistence Context)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/PersistenceContext.md)
  * [[JPA] JPQL 에러 (For queries with named parameters you need to use provide names for method parameters)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Param.md)
