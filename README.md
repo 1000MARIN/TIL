@@ -26,6 +26,7 @@
 <br>
 
 ## :pushpin: Spring
+ * [[JPA] 프록시, 즉시 로딩과 지연로딩](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/ProxyLoding.md)
  * [[JPA] Entity 생명주기(Entity LifeCycle)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/Entity.md)
  * [[JPA] 플러시(flush)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/flush.md)
  * [[JPA] 영속성 컨텍스트(Persistence Context)](https://github.com/1000MARIN/TIL/blob/1000marin/Spring/PersistenceContext.md)
