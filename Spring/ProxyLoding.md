@@ -127,7 +127,7 @@ System.out.println(member.getOrders().getClass().getName()); // org.hibernate.co
 * `@ManyToOne`, `@OneToOne` : 즉시 로딩
 * `@OneToMany`, `@ManyToMany` : 지연 로딩
 
-모든 연관 관계에 지연 로딩을 사용하는 것을 추천한다. 이후, 완성 단계에서 반드시 즉시 로딩이 필요한 경우에만 사용하는 것이 최적화하는데 유리하다.
+**모든 연관 관계에 지연 로딩을 사용하는 것을 추천**한다. 이후, 완성 단계에서 반드시 즉시 로딩이 필요한 경우에만 사용하는 것이 최적화하는데 유리하다.
 
 ### 즉시 로딩 주의점
 * `@ManyToOne`, `@OneToOne`
