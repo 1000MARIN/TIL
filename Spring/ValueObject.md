@@ -223,8 +223,8 @@ member1.getAddress().setCity("New City"); // member1의 주소만 변경된다.
 
 자바가 제공하는 객체의 비교는 2가지가 존재
 
-  * 동일성(Identity) : 인스턴스의 참조 값을 비교하는 것. ==를 사용
-  * 동등성(Equivalence) : 인스턴스의 값을 비교하는 것. equals()를 사용
+  * 동일성(Identity) : 인스턴스의 `참조 값`을 비교하는 것. `==`를 사용
+  * 동등성(Equivalence) : 인스턴스의 `값`을 비교하는 것. `equals()`를 사용
 
 <br>
 
@@ -233,12 +233,14 @@ Address a = new Address("City", "Street", "12345");
 Address b = new Address("City", "Street", "12345");
 ```
 
+만약 `a == b`로 동일성을 비교하면 둘은 다른 인스턴스이므로 `false`가 반환된다. 때문에 `값 타입을 비교`하려면 `equals()`를 `재정의해 **동등성 비교**`를 해야 한다. 또한, `equals()`를 재정의하면 hashCode()도 함께 재정의하는 것이 좋다.
+
 <br>
 <br>
 
 # 컬렉션 값 타입
 >collection value type    
->값 타입을 하나 이상 저장하려면 컬렉션에 보관하고 @ElementCollction, @CollectionTable 애노테이션을 사용하면 된다.   
+>값 타입을 하나 이상 저장하려면 컬렉션에 보관하고 `@ElementCollction`, `@CollectionTable` 애노테이션을 사용하면 된다.   
 
 <br>
 
