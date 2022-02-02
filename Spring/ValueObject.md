@@ -37,8 +37,8 @@ public class Member {
 <br>
 
 # 임베디드 타입(복합 값 타입)
->embedded type, components
->새로운 값 타입을 직접 정의해 사용하는 것
+>embedded type, components   
+>새로운 값 타입을 직접 정의해 사용하는 것   
 
 값을 새로 정의해 사용하면 재사용이 가능하고, 응집성이 높아지게 된다. 또한, 값마다 특정 메소드를 생성할 수 있기 때문에 객체 지향적인 설계가 가능해진다.
 
@@ -237,9 +237,8 @@ Address b = new Address("City", "Street", "12345");
 <br>
 
 # 컬렉션 값 타입
-collection value type
-
-값 타입을 하나 이상 저장하려면 컬렉션에 보관하고 @ElementCollction, @CollectionTable 애노테이션을 사용하면 된다.
+>collection value type    
+>값 타입을 하나 이상 저장하려면 컬렉션에 보관하고 @ElementCollction, @CollectionTable 애노테이션을 사용하면 된다.   
 
 <br>
 
