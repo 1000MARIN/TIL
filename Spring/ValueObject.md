@@ -233,7 +233,7 @@ Address a = new Address("City", "Street", "12345");
 Address b = new Address("City", "Street", "12345");
 ```
 
-만약 `a == b`로 동일성을 비교하면 둘은 다른 인스턴스이므로 `false`가 반환된다. 때문에 `값 타입을 비교`하려면 `equals()`를 `재정의해 **동등성 비교**`를 해야 한다. 또한, `equals()`를 재정의하면 hashCode()도 함께 재정의하는 것이 좋다.
+만약 `a == b`로 동일성을 비교하면 둘은 다른 인스턴스이므로 `false`가 반환된다. 때문에 `값 타입을 비교`하려면 `equals()`를 `재정의해 동등성 비교`를 해야 한다. 또한, `equals()`를 재정의하면 hashCode()도 함께 재정의하는 것이 좋다.
 
 <br>
 <br>
