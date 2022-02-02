@@ -298,6 +298,12 @@ em.persist(member);
 tx.commit();
 ```
 
+`em.persist(member)`를 호출하면 총 6개의 INSERT 쿼리가 실행된다.
+
+<br> 
+
+값 타입들은 Member에 소속된 값으로 라이프 사이클이 Member에 의존된다. 때문에 영속성 전이(cascade)와 고아 객체 제거(orphan remove)를 설정한 것과 동일하다.
+
 <br>
 
 ### 조회
@@ -353,7 +359,7 @@ addressHistory.add(new Address("city", "street", "12345"));
 
 3. 컬렉션 값 타입 수정
 
-  * equals()와 hashCode()가 반드시 구현되어 있어야 한다.
+  * `equals()`와 `hashCode()`가 반드시 구현되어 있어야 한다.
   * 불변 객체이기 때문에 기존에 있던 주소를 삭제하고 새로운 주소를 등록
 
 <br>
