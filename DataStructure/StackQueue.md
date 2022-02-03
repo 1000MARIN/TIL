@@ -70,6 +70,8 @@ Queue q = new LinkedList();
   * BFS
   * 작업 스케쥴링
 
+<br>
+
 ## Circular Queue
 
 ![image](https://user-images.githubusercontent.com/84886987/152289268-4e1f08c7-fcfe-41c3-8fc6-9b1748cc769e.png)
