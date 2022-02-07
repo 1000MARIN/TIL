@@ -55,6 +55,7 @@ Number이라는 클래스안에 클래스 변수 num과 인스턴스 변수 num2
 
 ### 정적(Static) 메서드 사용 예시
 
+```java
 class Name{
     static void print() { //클래스 메소드
 	System.out.println("내 이름은 홍길동입니다.");
@@ -74,6 +75,7 @@ public class Static_ex {
         name.print2(); //인스턴스를 생성하여야만 호출이 가능
     }
 }
+```
 
 ![image](https://user-images.githubusercontent.com/84886987/152715862-65d091d4-429c-4563-8ff9-b47701e79501.png)
 
