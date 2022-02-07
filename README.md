@@ -42,6 +42,7 @@
 <br>
 
 ## :pushpin: Java
+ * [static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/static.md)
  * [final](https://github.com/1000MARIN/TIL/blob/1000marin/Java/final.md)
  * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
  * [boolean](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_boolean.md)
