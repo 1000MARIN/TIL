@@ -42,6 +42,8 @@
 <br>
 
 ## :pushpin: Java
+ * [](https://github.com/1000MARIN/TIL/blob/1000marin/Java/final.md)
+ * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
  * [boolean](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_boolean.md)
  * [비교연산자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ControlStatement_Operator.md)
  * [조건문](https://github.com/1000MARIN/TIL/blob/1000marin/Java/ConditionalOperator.md)
@@ -51,7 +53,6 @@
  * [메소드](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Method.md)
  * [클래스와 객체](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Class.md)
  * [생성자](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Constructor.md)
- * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
  * [Java API](https://github.com/1000MARIN/TIL/blob/1000marin/Java/JavaAPI.md)
  * [extends](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Extends.md)
  * [예외 처리](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Exception.md)
