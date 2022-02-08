@@ -18,10 +18,11 @@
 <br>
 
 ## :pushpin: Data Structure
- * [List](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/List.md)
+ * [Vector와 Arraylist의 차이점과 LinkedList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/VectorArrayListLinkedList.md)
  * [Array vs ArrayList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/ArrayVsArrayList.md)
  * [ArrayList vs LinkedList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/ArrayListVsLinkedList.md)
  * [Array vs LinkedList](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/ArrayVsLinkedList.md)
+ * [List](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/List.md)
  * [Stack & Queue](https://github.com/1000MARIN/TIL/blob/1000marin/DataStructure/StackQueue.md)
 
 <br>
