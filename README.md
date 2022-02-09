@@ -43,7 +43,7 @@
 <br>
 
 ## :pushpin: Java
- * [Optional이란? Optional 개념 및 사용법](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Optional.md)
+ * [Optional 개념 및 사용법](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Optional.md)
  * [static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/static.md)
  * [final](https://github.com/1000MARIN/TIL/blob/1000marin/Java/final.md)
  * [reference 와 static](https://github.com/1000MARIN/TIL/blob/1000marin/Java/Reference_Static.md)
