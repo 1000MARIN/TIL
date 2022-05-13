@@ -13,7 +13,7 @@
 <br>
 
 ## :pushpin: Python
- * [OpenCV]()
+ * [[OpenCV]]이미지 출력()
 
 
 <br>
