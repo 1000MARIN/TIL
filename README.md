@@ -12,7 +12,7 @@
 
 <br>
 
-## :pushpin: Spring
+## :pushpin: Python
  * [OpenCV]()
 
 
