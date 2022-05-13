@@ -13,7 +13,7 @@
 <br>
 
 ## :pushpin: Python
- * [[OpenCV]이미지 출력](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_img.md)
+ * [[OpenCV] 이미지 출력](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_img.md)
 
 
 <br>
