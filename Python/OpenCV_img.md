@@ -1,6 +1,6 @@
 ## 환경 설정
 Anaconda Promt 에서 다음 명령 수행  
-> pup install opencv-python
+> pip install opencv-python
 
 <br>
 
