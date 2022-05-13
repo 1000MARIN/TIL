@@ -13,7 +13,7 @@ while cap.isOpened(): # 동영상 파일이 올바로 열렸는지?
         
     cv2.imshow('video', frame)
     
-    if cv2.waitKey(25) == ord('q'):
+    if cv2.waitKey(25) == ord('q'): # 사용자가 q를 입력 하면 
         print('사용자 입력에 의해 종료합니다')
         break
 
