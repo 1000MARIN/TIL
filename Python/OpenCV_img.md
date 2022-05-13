@@ -35,7 +35,6 @@ img_color = cv2.imread('img.jpg', cv2.IMREAD_COLOR)
 img_gray = cv2.imread('img.jpg', cv2.IMREAD_GRAYSCALE)
 img_unchanged = cv2.imread('img.jpg', cv2.IMREAD_UNCHANGED)
 
-
 cv2.imshow('img_color', img_color)
 cv2.imshow('img_gray', img_gray)
 cv2.imshow('img_unchanged', img_unchanged)
