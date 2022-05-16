@@ -18,7 +18,7 @@
  * [[OpenCV] 도형 그리기](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Figure.md)
  * [[OpenCV] 이미지, 동영상 저장](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_File.md)
  * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Size.md)
- * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
+ * [[OpenCV] 이미지 ](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
 
 
 <br>
