@@ -1,6 +1,6 @@
 # 이미지 수정
 
-# 이미지 자르기
+# 7. 이미지 자르기
 
 영역을 잘라서 새로운 윈도우(창)에 표시
 
@@ -116,11 +116,3 @@ cv2.imshow('rotate_270', rotate_270)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-
-
-
-
-
-
-
-
