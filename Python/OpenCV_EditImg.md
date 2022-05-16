@@ -1,0 +1,75 @@
+# 이미지 수정
+
+# 이미지 자르기
+
+영역을 잘라서 새로운 윈도우(창)에 표시
+
+```python
+import cv2
+img = cv2.imread('img.jpg')
+# img.shape # (390, 640, 3)
+
+crop = img[100:200, 200:400] # 세로 기준 100 : 200까지, 가로 기준 300 : 400 까지 자름
+
+cv2.imshow('img', img) # 원본 이미지
+cv2.imshow('crop', crop) # 잘린 이미지
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+영역을 잘라서 기존 윈도우에 표시
+
+```python
+import cv2
+img = cv2.imread('img.jpg')
+# img.shape # (390, 640, 3)
+
+crop = img[100:200, 200:400] # 세로 기준 100 : 200까지, 가로 기준 300 : 400 까지 자름
+img[100:200, 400:600] = crop
+
+cv2.imshow('img', img) # 원본 이미지
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+# 이미지 대칭
+
+## 좌우 대칭
+
+```python
+import cv2
+img = cv2.imread('img.jpg')
+flip_horizontal = cv2.flip(img, 1) # flipCode > 0 : 좌우 대칭 Horizontal
+
+cv2.imshow('img', img)
+cv2.imshow('flip_horizontal', flip_horizontal)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+## 상하 대칭
+
+```python
+import cv2
+img = cv2.imread('img.jpg')
+flip_vertical = cv2.flip(img, 0) # flipCode == 0 : 상하 대칭 Vertical
+
+cv2.imshow('img', img)
+cv2.imshow('flip_vertical', flip_vertical)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+## 상하좌우 대칭
+
+```python
+import cv2
+img = cv2.imread('img.jpg')
+flip_both = cv2.flip(img, -1) # flipCode < 0 : 상하좌우 대칭 
+
+cv2.imshow('img', img)
+cv2.imshow('flip_both', flip_both)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
