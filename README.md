@@ -11,6 +11,7 @@
  * [Logitech MX Vertical Mouse Bluetooth 끊김 현상 해결 방법](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/MouseBluetooth.md)
  * [Logitech MX Vertical Mouse Bluetooth 끊김 현상 해결 방법](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/MouseBluetooth.md)
  * [Logitech MX Vertical Mouse Bluetooth 끊김 현상 해결 방법](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/MouseBluetooth.md)
+ * [Logitech MX Vertical Mouse Bluetooth 끊김 현상 해결 방법](https://github.com/1000MARIN/TIL/blob/1000marin/ETC/MouseBluetooth.md)
 
 
 <br>
