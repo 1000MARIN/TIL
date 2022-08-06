@@ -28,6 +28,7 @@
  * [[OpenCV] 이미지 변형(흑백, 흐림, 원근)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_ImgTransformation.md)
  * [[OpenCV] 이미지 변형(흑백, 흐림, 원근)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_ImgTransformation.md)
  * [[OpenCV] 이미지 변형(흑백, 흐림, 원근)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_ImgTransformation.md)
+ * [[OpenCV] 이미지 변형(흑백, 흐림, 원근)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_ImgTransformation.md)
 
 
 
