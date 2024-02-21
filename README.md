@@ -24,6 +24,7 @@
  * [[OpenCV] 이미지 수정(자르기, 대칭, 회전)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
  * [[OpenCV] 이미지 수정(자르기, 대칭, 회전)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
  * [[OpenCV] 이미지 수정(자르기, 대칭, 회전)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
+ * [[OpenCV] 이미지 수정(자르기, 대칭, 회전)](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_EditImg.md)
 
  
 <br>
