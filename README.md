@@ -23,6 +23,7 @@
  * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Size.md)
  * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Size.md)
  * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Size.md)
+ * [[OpenCV] 크기 조정](https://github.com/1000MARIN/TIL/blob/1000marin/Python/OpenCV_Size.md)
 
 
 
